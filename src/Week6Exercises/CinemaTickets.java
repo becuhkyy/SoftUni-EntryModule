@@ -11,7 +11,7 @@ public class CinemaTickets {
         double studentTickets = 0;
         double standardTickets = 0;
         double kidsTickets = 0;
-        int totalTickets = 0;
+        int totalTickets;
 
         while (!movieName.equals("Finish")) {
 
